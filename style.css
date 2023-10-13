@@ -1,0 +1,27 @@
+header {
+    background-color: #039aff;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
+
+body {
+    background-color: #0f6eeb; /* White background */
+    font-family: Arial, sans-serif; /* Arial font */
+    margin: 0; /* No top/bottom margin */
+    padding: 0; 
+    color: aliceblue;/* No left/right padding */
+}
+
+nav {
+    background-color: #73bbff;
+    color: white;
+    text-align: center;
+    padding: 0.5rem;
+}
+
+nav a {
+    color: rgb(34, 34, 63);
+    text-decoration: none;
+    margin: 0 1
+}
